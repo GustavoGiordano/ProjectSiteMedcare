@@ -1,6 +1,6 @@
 # ProjectSiteMedcare
 
-Esse projeto foi criado com o intuito de praticar HTML e CSS.
+Esse projeto foi criado com o intuito de praticar HTML, CSS e Javascript.
 
 Fonte: Complete Responsive Hospital Website Template Using HTML - CSS - JavaScript
 
